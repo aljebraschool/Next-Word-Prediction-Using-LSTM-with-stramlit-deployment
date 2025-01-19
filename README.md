@@ -87,7 +87,7 @@ Contributions are welcome! If you'd like to improve the project or fix any issue
 
 ### Author
 
-This project was created by [Algebra School](aljebraschool.github.io).
+This project was created by [Algebra School](https://aljebraschool.github.io/).
 
 
   
